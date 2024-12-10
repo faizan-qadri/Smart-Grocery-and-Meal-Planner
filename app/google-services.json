@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "224174824326",
+    "project_id": "smart-grocery-and-meal-planner",
+    "storage_bucket": "smart-grocery-and-meal-planner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224174824326:android:a4bfd9197ca26c373d6a07",
+        "android_client_info": {
+          "package_name": "com.android.smart_grocery_and_meal_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224174824326-c9ejeal7837a5cffjlgt1vibvndqjk9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.smart_grocery_and_meal_planner",
+            "certificate_hash": "70c7300ed8408e69f69a3e520b60f01e2cad7252"
+          }
+        },
+        {
+          "client_id": "224174824326-p6254dj9aljeafnddcn61rj24cp838a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzSUX0hg0HNNW6wvw9ehu-fjLHFcFxKtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224174824326-p6254dj9aljeafnddcn61rj24cp838a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

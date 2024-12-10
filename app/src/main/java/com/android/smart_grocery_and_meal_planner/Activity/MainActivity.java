@@ -40,6 +40,8 @@ public class MainActivity extends AppCompatActivity{
     private TextView userName;
     private ImageView notificationBtn, popupBtn;
 
+    private TextView textView;
+
     private FirebaseFirestore db;
     private FirebaseAuth firebaseAuth;
 
